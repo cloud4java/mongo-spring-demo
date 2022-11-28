@@ -1,0 +1,10 @@
+#spring:
+#  data:
+#    mongodb:
+#      host: localhost
+#      port: 27017
+#      username: local
+#      password: local
+#      uri:  mongodb+srv://local:local@localhost.mongodb.net/userdb
+      uri:  mongodb://local:local@localhost/local
+#      database: local
